@@ -1,0 +1,906 @@
+1/F Open Area #1
+1/F Open Area #2
+1001
+1003
+1005
+1007
+1009
+1010
+1011
+1014
+1026
+1027
+1031
+1032
+1033
+1034
+1036
+1037
+1101
+1103
+1104
+1125 #1
+1125 #2
+1125A
+1201-02 #1
+1201-02 #2
+1202
+1206
+1209
+1212
+1213
+1215
+1364 #1
+1364 #2
+1376
+1381
+1401 #1
+1401 #2
+1409
+1410
+1520A #1
+1520A #2
+2/F Lobby
+2001
+2003
+2004
+2005
+2007
+2008
+2008A
+2008B
+2010
+2019A
+2021
+2021 #1
+2021 #2
+2037
+2042
+2106
+2123 #1
+2123 #2
+2125B
+2125C
+2126A
+2126B
+2126C
+2126D
+2127A
+2127B
+2127C
+2128A
+2128B
+2128C
+2129A
+2129B
+2129C
+2130A
+2130B
+2130C
+2131A
+2131B
+2131C
+2132A
+2132B
+2133-34 #1
+2133-34 #2
+2136-38 #1
+2136-38 #2
+2145B
+2149
+2150 #1
+2150 #2
+2151
+2152
+2153 #1
+2153 #2
+2154
+2159
+2205
+2205A
+2205B
+2207A
+2209 #1
+2209 #2
+2210 #1
+2210 #2
+2210 #3
+2210 #4
+2211
+2212 #1
+2212 #2
+2213 #1
+2213 #2
+2214
+2217 #1
+2217 #2
+2218 #1
+2218 #2
+2219 #1
+2219 #2
+2220 #1
+2220 #2
+2221
+2222
+2223
+2227
+2228
+2229
+2230
+2231
+2231A #1
+2231A #2
+2231D
+2231E
+2231F
+2232
+2234
+2235
+2236
+2238
+2239
+2240 #1
+2240 #2
+2240 #3
+2240 #4
+2240 #5
+2240 #6
+2240 #7
+2303
+2338 #1
+2338 #2
+2391
+2395
+2404
+2405
+2406
+2407
+2408
+2457 #1
+2457 #2
+2463
+2464
+2465
+2502
+2503
+2504
+2568
+2575
+2590
+2610
+2611
+2612A
+2612B
+3001
+3004
+3005
+3006
+3008 #1
+3008 #2
+3010
+3011 #1
+3011 #2
+3018
+3019
+3102
+3107A
+3110
+3111A #1
+3111A #2
+3111A #3
+3112
+3115
+3116
+3117
+3119
+3121
+3122
+3123
+3125A
+3201
+3202
+3202C
+3207
+3208A
+3211 #1
+3211 #2
+3217A #1
+3217A #2
+3219 #1
+3219 #2
+3301
+3399 #1
+3399 #2
+3461
+3472
+3473
+3478
+3494
+3528 #1
+3528 #2
+3574
+3575
+3584A
+3588
+3591
+3595
+3598
+3620
+3625B
+4001
+4002
+4006 #1
+4006 #2
+4018
+4066
+4092
+4093
+4094
+4094A
+4095
+4096
+4104
+4106
+4106C
+4106D
+4109
+4109B
+4109C
+4110 #1
+4110 #2
+4112
+4113 #1
+4113 #2
+4115
+4115B
+4115D
+4116A #1
+4116A #2
+4116B
+4117
+4117A
+4117B
+4118
+4120
+4120A
+4123
+4125
+4126
+4128
+4129
+4130B
+4131
+4133
+4135
+4135A
+4135B
+4137
+4138
+4141
+4142
+4142A
+4144
+4145
+4146
+4149A
+4150
+4160 #1
+4160 #2
+4160 #3
+4161
+4163
+4202
+4205
+4207A
+4208
+4209 #1
+4209 #2
+4210
+4211
+4212 #2
+4213
+4214A
+4217
+4217A
+4218
+4218D
+4219
+4221A
+4222
+4223
+4223 #1
+4223 #2
+4223G
+4224
+4224A
+4224C
+4225
+4225A
+4225B
+4225C
+4226
+4226B
+4226B #2
+4227
+4227A
+4229 #1
+4229 #2
+4230 #1
+4230 #2
+4230 #3
+4332
+4334
+4381
+4382
+4402
+4403-4404
+4412
+4461
+4472
+4475
+4480
+4483
+4502
+4503
+4504
+4512
+4566
+4578
+4579-4580
+4582
+4584
+4592
+4611
+4619
+4620
+5003
+5007
+5014
+5018
+5022
+5037 #1
+5037 #2
+5069
+5333 #1
+5333 #2
+5351
+5358
+5408 #1
+5408 #2
+5409
+5414 #1
+5414 #2
+5466
+5474
+5501
+5504
+5506
+5508
+5510
+5551
+5560
+5562
+5564
+5566
+5591
+5601 #1
+5601 #2
+5613
+6017
+6018
+6063
+6066
+6102
+6104
+6105
+6107
+6113
+6114
+6115
+6116
+6117
+6117A
+6118-6118A
+6119
+6122 #1
+6122 #2
+6125
+6127 #2
+6127A #1
+6130
+6131 #1
+6131 #2
+6131A
+6135
+6137
+6140
+6141 #1
+6141 #2
+6141A
+6142
+6143
+6144
+6144A
+6145
+6146
+6147
+6148
+6149
+6150
+6201 #1
+6201 #2
+6202
+6203
+6204 #1
+6204 #2
+6218
+6220
+6222
+6223
+6224
+6225
+6226
+6230
+6231
+6232
+6233A
+6234
+6236
+6237
+6243
+6244
+6245
+6246
+6247
+6248
+6249
+6250A
+6250B
+6250C
+6251
+6252
+6253
+6254
+6255
+6256-6259
+6256A
+6272
+6274
+6275
+6276
+6277
+6278
+6279
+6286
+6287
+6288
+6293
+6294
+6295B
+6296
+6303
+6305
+6306
+6309
+6310E
+6310G
+6310H
+6311
+6313
+6314A
+6318
+6319
+6321
+6323
+6331
+6353_1
+6353_2
+6355
+6356
+6357
+6358
+6359
+6359A
+6367
+6368
+6368A
+6401
+6418
+6515 #1
+6515 #2
+6547
+6549
+6575
+6583
+6K Corridor (hill side)
+6K Corridor (sea side)
+6L1 Corridor (hill side)
+6L1 Corridor (sea side)
+6L2 Corridor (hill side)
+6L2 Corridor (sea side)
+6L3 Corridor (hill side)
+6L3 Corridor (sea side)
+7001
+7014
+7101 #1
+7101 #2
+7102
+7103
+7104
+7105
+7106
+7107
+7108
+7109
+7110
+7111
+7112
+7118
+7119
+7120
+7121
+7122
+7122A
+7122B
+7126
+7130
+7132
+7133
+7134
+7135
+7136
+7137A
+7139
+7141A-7148
+7143
+7149-7151
+7161A
+7161B
+7161C
+7162
+7163
+7164
+7165
+7166
+7167
+7253
+7332
+7337
+7341
+7342
+Administration & Systems
+American Diner
+Archives & Special Collections
+Backyard 1 University Road
+Bookstore
+Building Service Maintenance
+CML101
+CML105
+CML106
+CML107
+CYG G004
+CYT 1001C
+CYT 1002 #1
+CYT 1002 #2
+CYT 1002B
+CYT 1003 #2
+CYT 1004 #1
+CYT 1004 #2
+CYT 2001 #1
+CYT 2001 #2
+CYT 2007 #1
+CYT 2007D
+CYT 2008 #2
+CYT 2014 #1
+CYT 2014 #2
+CYT 2014A
+CYT 3001 #1
+CYT 3001 #2
+CYT 3007 #2
+CYT 3008 #1
+CYT 3008 #2
+CYT 3014 #1
+CYT 3014 #2
+CYT 4001 #1
+CYT 4001 #2
+CYT 4007 #1
+CYT 4007 #2
+CYT 4007A
+CYT 4008 #1
+CYT 4008 #2
+CYT 4014 #1
+CYT 4014 #2
+CYT 5001 #1
+CYT 5001 #2
+CYT 5007 #1
+CYT 5007 #2
+CYT 5007A
+CYT 5008 #1
+CYT 5008 #2
+CYT 5014 #1
+CYT 5014 #2
+CYT 5014A
+CYT 6001 #1
+CYT 6001 #2
+CYT 6007 #1
+CYT 6007 #2
+CYT 6007A
+CYT 6008 #1
+CYT 6008 #2
+CYT 6014 #1
+CYT 6014 #2
+CYT 6014A
+CYT G005
+CYT Rooftop
+CYT UG001 #1
+CYT UG001 #2
+CYT UG002 #1
+CYT UG002 #2
+China Garden #1
+China Garden #2
+Circulation & Reserve
+Classroom A
+Classroom B
+Coffeeshop
+Collection Development
+Concourse escalator
+Diners@LSKBB #1
+Diners@LSKBB #2
+Display Hallway
+Document Supply Service
+Ebeneezers
+Entry Gate
+Estate Maintenance #1
+Estate Maintenance #2
+Fitness Center #1
+Fitness Center #2
+G/F Lobby
+G001
+G002
+G003
+G005
+G007
+G009A
+G009B
+G010
+G011
+G012
+G017
+G021
+G107A_Left
+G107A_Right #1
+G107A_Right #2
+Gallery
+Gym Room
+HKUST Theses
+Hair Salon
+Hall 9 UG02 Gym Room
+IAS 1/F Lobby #1
+IAS 1/F Lobby #2
+IAS 2/F Lobby #1
+IAS 2/F Lobby #2
+IAS 3/F Lobby #1
+IAS 3/F Lobby #2
+IAS 3/F Lobby #3
+IAS 4/F Lobby #1
+IAS 4/F Lobby #2
+IAS 4/F Lobby #3
+IAS 5/F Lobby #1
+IAS 5/F Lobby #2
+IAS 5/F Lobby #3
+IAS G/F Lobby
+Indoor Sports Complex
+Information Commons #1
+Information Commons #2
+Information Commons #3
+LC #1
+LC #2
+LC #3
+LC #4
+LC #5
+LC #6
+LC #7
+LC Entry
+LC109
+LG1 Canteen #2
+LG1364
+LG3 Bookshelf #1
+LG3 Bookshelf #2
+LG3 Bookshelf #3
+LG3 Bookshelf #4
+LG3 Bookshelf #5
+LG3 Bookshelf #6
+LG3 Open Area #1
+LG3 Open Area #2
+LG3 Open Area #3
+LG3002
+LG4 Bookshelf #1
+LG4 Bookshelf #2
+LG4 Bookshelf #3
+LG4 Bookshelf #4
+LG4 Bookshelf #5
+LG4 Open Area #1
+LG4 Open Area #2
+LG4 Open Area #3
+LG4 Open Area #4
+LG4204
+LG5209
+LG5305
+LG5306
+LG7 Canteen #2
+LG7 Canteen #3
+LSK 6068A
+LSK-G/F
+LTA-1
+LTB
+LTB-1
+LTB-2
+LTC
+LTD
+LTE
+LTF
+LTG
+LTH
+LTJ
+LTK
+LTL
+Main Arena
+Media Reserve
+Mobile
+Mother Station
+Multi-purpose Room
+Near LTJ
+Near Reception Counter
+Newspaper Area
+Not found
+Open Area
+Outdoor Swimming Pool
+Outside 1005
+Outside 2015
+Outside 2034
+Outside ARR
+Outside Barn C
+Outside G012
+Outside LSK Restaurant
+Outside LTA
+Outside LTD
+Outside LTK
+Outside Passion
+Outside Room 4033
+PG2-G/F
+Passion
+Refreshment Zone 
+Reserve Acquisitions Cataloging
+Rm6555 IAO Office
+Seafront Cafeteria
+Shaw 1/F Circulation Area #1
+Shaw 1/F Circulation Area #2
+Shaw 1/F Circulation Area #3
+Shaw 1/F Circulation Area #4
+Shaw 1/F Circulation Area #5
+Shaw 101 #1
+Shaw 101 #2
+Shaw 103 #1
+Shaw 103 #2
+Shaw 103 #3
+Shaw 104T
+Shaw 105 #1
+Shaw 105 #2
+Shaw 105 #3
+Shaw 106 #1
+Shaw 106 #2
+Shaw 106 #3
+Shaw 109T
+Shaw 110T
+Shaw 111 #2
+Shaw 112 #1
+Shaw 112 #2
+Shaw 112 #3
+Shaw 113 #1
+Shaw 113 #2
+Shaw 113 #3
+Shaw 114 #1
+Shaw 114 #2
+Shaw 115 #1
+Shaw 115 #2
+Shaw 117T
+Shaw 119 #1
+Shaw 119 #2
+Shaw 119 #3
+Shaw 120T
+Shaw 2/F Circulation Area #1
+Shaw 2/F Circulation Area #2
+Shaw 2/F Circulation Area #3
+Shaw 2/F Circulation Area #4
+Shaw 201 #1
+Shaw 201 #2
+Shaw 203 #1
+Shaw 203 #2
+Shaw 203 #3
+Shaw 204 #2
+Shaw 205 #1
+Shaw 205 #2
+Shaw 206T
+Shaw 207 #1
+Shaw 207 #2
+Shaw 207 #3
+Shaw 209 #1
+Shaw 209 #2
+Shaw 209 #3
+Shaw 209 #4
+Shaw 210 #2
+Shaw 211 #1
+Shaw 211 #2
+Shaw 215T
+Shaw 216 #2
+Shaw 217 #1
+Shaw 218 #1
+Shaw 218 #2
+Shaw 221T
+Shaw Changing Room
+Shaw Entrance Hall #1
+Shaw Entrance Hall #2
+Shaw Entrance Hall #3
+Shaw Entrance Hall #4
+Shaw G/F Female Lav #1
+Shaw G/F Female Lav #2
+Shaw G/F Male Lav #2
+Shaw G/F WC #1
+Shaw G/F WC #2
+Shaw G/F WC #3
+Shaw G/F WC #4
+Shaw G/F WC #5
+Shaw G02
+Shaw G12
+Shaw G15
+Shaw G17
+Shaw G18
+Shaw R08T
+Shaw R09
+Shaw Stage #1
+Shaw Stage #2
+Shaw Stalls
+Souvenir Shop
+Special Collections Gallery
+Special Collections Room
+Sports Hall Lobby
+Squash Corts
+Starbucks
+Student Lounge
+Supermarket
+Systems Support Office
+The UniBar
+UC G01 #1
+UC G01 #2
+UC G01B
+UC G03 #1
+UC G03 #2
+UC G04 #1
+UC G04 #2
+UG1 Rooftop
+UG1-G/F
+UG2 Common Room 4
+UG2-G/F
+UG3-G/F
+UG4-G/F
+UG6 Common Room 5 and 6
+UG6 Meeting Room 6
+UG6-G/F
+UG7-G/F
+UG8-G/F
+UG9-G/F
+UniBistro
+UniQue
+WT101
+WTG09
+WTG18
+atrium
+average_id
+average_od
+canteen(1)_lg1
+cateen_lg7
+g003_lsk
+g009a_cyt
+gym
+mcdonald_lg5
+scihome_concourse
