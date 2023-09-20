@@ -8,13 +8,14 @@ class ApiCaller:
         f.close()
 
         self.filter=None
+        self.branch = None
 
 
     def callApi(self, branch: str, params: dict, singleCall: bool) -> json:
         prefix = self.secret['url']
         suffix = '_search'
         url = prefix + branch + suffix
-        headers = {self.secret['Authorization-Header']:self.secret['sensor-api']}
+        headers = {self.secret['Authorization-Header']:self.secret[branch]}
 
         # params = {
         #     'filter_path' : 'hits.hits._source.location',
@@ -46,7 +47,7 @@ class ApiCaller:
             # End
             return loadedData
     
-    def chooseKey(self, rawData):
+    def chooseKey(self, rawData: dict):
         for key in rawData['hits']['hits'][0]['_source'].keys():
             print(key)
 
@@ -62,8 +63,12 @@ class ApiCaller:
         timefrom = self.timefrom
         location = self.location
 
+        keyOfLocation = 'location'
+        if self.branch == 3:
+            keyOfLocation = 'TLInstance'
+
         params = {
-            'q': f'location:{location} AND '+'@timestamp:{'+timefrom+' TO '+timeto+'}' ,
+            'q': f'{keyOfLocation}:{location} AND '+'@timestamp:{'+timefrom+' TO '+timeto+'}' ,
             'filter_path':f'hits.hits._source.@timestamp,hits.total',
             'size':'10000',
             'sort' : '@timestamp:desc'
@@ -79,6 +84,7 @@ class ApiCaller:
         '''
         appending q and q
         '''
+        
         param['q'] += (' AND ' + q['q'])
         return param
      
@@ -95,3 +101,6 @@ class ApiCaller:
 
     def checkIfEnough(self,time):
         return True if time<self.timeto else False
+    
+    def setBranch(self, bracnch:int) -> None:
+        self.branch = bracnch

@@ -21,10 +21,15 @@ def main():
     print('Which of the following Api do you want? [0-9]')
     print(apiSelector.branch)
     choice = int(input())
+    apiCaller.setBranch(choice)
 
+    # configure the query format of first-called api
     # TODO: add support for another type of sensor, right now only sensor of owner:TT are supported 
+    q = {}
+    if choice == 0:
+        q = {'q':'owner:TT'}
+
     branch = apiSelector.branch[choice]
-    q = {'q':'owner:TT'}
     loadedData = apiCaller.callApi(branch=branch, params=q, singleCall=True)
 
     #TODO take the parameter of interest
@@ -33,7 +38,7 @@ def main():
     filter = input()
     apiCaller.setFilter(filter)
     # TODO suport all locations
-    print('Since there are more than 1000 locations, please choose some locations of your interest to save resources, please look at the location file for reference')
+    print('Since there are so many locations, please choose some locations of your interest to save resources, please look at the location file for reference')
     location = input()
     
 
@@ -44,7 +49,12 @@ def main():
     timeto = input()
 
     userAddedParams = apiCaller.inputParameter(location,timefrom,timeto)
-    combinedParams = apiCaller.addQuery(userAddedParams,q=q)
+    if q:
+        # to check if there is really something to add to prevent key error
+        combinedParams = apiCaller.addQuery(userAddedParams,q=q)
+    else:
+        combinedParams = userAddedParams
+
     print(combinedParams)
     data = apiCaller.callApi(branch=branch,params=combinedParams,singleCall=False)
     output = apiCaller.parseOutput(data=data)
