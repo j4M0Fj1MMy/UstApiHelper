@@ -1,5 +1,8 @@
 {
     "url": "https://hkust.azure-api.net/",
     "Authorization-Header": "X-Apim-Subscription-Key",
-    "sensor-api": "your-key"
+    "sensor-data/": "Your-key",
+    "people-count-pulse/": "Your-key",
+    "energy/consumption/chiller_plant/": "Your-key",
+    "labfumehood/": "Your-key"
 }
